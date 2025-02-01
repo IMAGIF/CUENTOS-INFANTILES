@@ -9,7 +9,7 @@ Carpeta de imágenes: cambia la existente por la de cuento17 D:\MI-WEB-DE\CUENTO
 
 
 
-video incrustado:
+video incrustado de YouTube:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Tt09377fB7k?si=kcJhzGiyZV8EnznH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
